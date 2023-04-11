@@ -10,3 +10,11 @@ return 0;
 
 
 Add fibonacii series
+
+#include<stdio.h>
+using namepace std
+int main()
+{
+Swap 2 variables
+return 0;
+}
